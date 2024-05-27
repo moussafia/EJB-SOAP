@@ -34,4 +34,7 @@ Jboss est un serveur d'applications open source basé sur platform Java EE(Entre
   - java utilisé dans le projet : jdk 1.8
   - JBoss Enterprise Application Platform (EAP) 8.x
   - mysql 8
+
+# Sructure du projet:
+
  
